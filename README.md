@@ -4,13 +4,13 @@
 
 Você é responsável por gerenciar os treinamentos de uma empresa e precisa controlar as cargas horárias de cada treinamento por setor. O objetivo é criar uma planilha onde você possa cadastrar as informações dos treinamentos e, em seguida, calcular a carga horária total por setor.
 
-Abra o arquivo atividade_hht.xlsx
+1. Abra o arquivo atividade_hht.xlsx
 
-Crie uma planilha e a renomeie para **Resultado**
+2. Crie uma planilha e a renomeie para **Resultado**
 
-Abra o Visual Basic Editor (VBE)
+3. Abra o Visual Basic Editor (VBE)
 
-Insira um novo módulo e cole o seguinte código:
+4. Insira um novo módulo e cole o seguinte código:
 
 ```
 Sub CalcularCargaHorariaTotal()
@@ -60,3 +60,9 @@ Sub CalcularCargaHorariaTotal()
     MsgBox "Cálculo de carga horária total concluído!"
 End Sub
 ```
+
+5. Vincule a macro CalcularCargaHorariaTotal a um botão.
+6. Teste a execução da macro com novos registros.
+7. Salve o arquivo com a extensão apropriada.
+8. Envie o arquivo para o google sala de aula.
+
